@@ -1,6 +1,6 @@
 {
   "name": "astros-cmd-define",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "astros-cmd-define.js",
   "scripts": {
